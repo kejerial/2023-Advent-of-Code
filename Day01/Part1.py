@@ -1,6 +1,6 @@
 import re
 
-file = open("/Users/kevinjeon/Code/2023 Advent of Code/Day01/input.txt", "r")
+file = open("./Day01/input.txt", "r")
 
 sum = 0
 
